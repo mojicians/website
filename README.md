@@ -1,2 +1,1 @@
-# website
-Mojicians Community GitHub Page
+# Mojicians Community GitHub Page
